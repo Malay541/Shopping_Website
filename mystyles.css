@@ -1,0 +1,21 @@
+ p,li {
+   
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 2px;
+
+  }
+ h1{
+
+ 	font-size: 65px;
+ 	text-align: center;
+ } 
+  .para{
+
+  	 font-size: 32px;
+  	 color: orangered;
+  }
+  html{
+
+  	background-color: #27FFF8;
+  }
